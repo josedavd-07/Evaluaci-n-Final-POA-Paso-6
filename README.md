@@ -2,56 +2,23 @@
  En el siguiente repositorio encontraremos la solución y codificación de un problema de programación donde pondremos en práctica todo lo aprendido en el curso haciendo uso de la programación estructurada en el lenguaje de programación C#
 
 ## Problema #4 TIKTOK S.A.S 📲📲🛜
-- En
-- /*_______________________________________________________________
-  |                                                             |        
-  | -Nombre del estudiante: Jose David Carranza Angarita        |
-  |                                                             |                                       
-  |  - Grupo: 213022_77                                         |  
-  |                                                             |
-  | -Carrera: Ingeniería de Sistemas.                           |                                                              
-  |                                                             |              
-  |  - Número: Problema #4                                      |
-  |                                                             |
-  | -Código Fuente: autoría propia.                             |
-  |                                                             |
-  | Paso - - fundamentos de programación.                       |                
-  |_____________________________________________________________|
- */
 
-
-/*________________________________________________________________________________________________
-  |                                                                                               |
-  |  - La empresa Tik Tok desea otorgar una bonificación a una cantidad N de sus empleados.       |
-  |                                                                                               |
-  |  - para ello desea registrar la fecha de nacimiento de cada uno de ellos en su sistema de     |
-  |    información.                                                                               |
-  |                                                                                               |
-  |  - La bonificación se la dará sólo a los empleados mayores de 18 años y menores de 50 años,   |
-  |    y será un bono de $150.000 en el mes de su cumpleaños.                                     | 
-  |                                                                                               |
-  |  - Con estos empleados se debe:                                                               |                                                                                            
-  |                                                                                               |
-  |  - Sacar el promedio de las edades.                                                           |
-  |                                                                                               |
-  |  - Publicar una lista desglosada por meses con el número total de empleados,                  |                 
-  |    que cumplen años en cada mes, y el dinero total pagado en bonos.                           |
-  |                                                                                               |
-  |  - Finalmente, se debe saber el total de dinero que debe tener la empresa Tik Tok             |       
-  |                                                                                               |
-  |    por concepto de bonificación.                                                              |
-  |                                                                                               |  
-  |  - Ejemplo de la lista desglosada por meses:                                                  |
-  |                                                                                               |
-  |     -------------------------------------------------                                         |
-  |     | Mes      | Empleados TikTok | Dinero en Bonos |                                         |
-  |     -------------------------------------------------                                         |
-  |     | Enero    | 5 empleados      | $250,000        |                                         | 
-  |     -------------------------------------------------                                         |
-  |     | Febrero  | 10 empleados     | $500,000        |                                         |
-  |     -------------------------------------------------                                         |
-  |_______________________________________________________________________________________________|
-*/
+- La empresa Tik Tok desea otorgar una bonificación a una cantidad N de sus empleados.
+- para ello desea registrar la fecha de nacimiento de cada uno de ellos en su sistema de información.
+- La bonificación se la dará sólo a los empleados mayores de 18 años y menores de 50 años y será un bono de $150.000 en el mes de su cumpleaños.
+- # Con estos empleados se debe:
+- Sacar el promedio de las edades.
+- Publicar una lista desglosada por meses con el número total de empleados que cumplen años en cada mes, y el dinero total pagado en bonos.
+- Finalmente, se debe saber el total de dinero que debe tener la empresa TikTok por concepto de bonificación. 
+- #Ejemplo de la lista desglosada por meses:
+- 
+       -------------------------------------------------                                         
+       | Mes      | Empleados TikTok | Dinero en Bonos |                                         
+       -------------------------------------------------                                         
+       | Enero    | 5 empleados      | $250,000        |                                          
+       -------------------------------------------------                                         
+       | Febrero  | 10 empleados     | $500,000        |                                         
+       -------------------------------------------------  
 
 <p align="center">
   <img src="https://github.com/josedavd-07/josedavd-07/assets/134252125/b5b316b3-7d36-4056-b746-e86393164a5a" width="130" heigth="130"/>
