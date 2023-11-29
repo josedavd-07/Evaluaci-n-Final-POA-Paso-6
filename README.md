@@ -1,7 +1,7 @@
-# Evaluacion-Final-POA-Paso-6
+## Evaluacion-Final-POA-Paso-6
  En el siguiente repositorio encontraremos la solución y codificación de un problema de programación donde pondremos en práctica todo lo aprendido en el curso haciendo uso de la programación estructurada en el lenguaje de programación C#
 
-## Problema #4 TIKTOK S.A.S 📲📲🛜
+# Problema #4 TIKTOK S.A.S 📲📲🛜
 
 - La empresa Tik Tok desea otorgar una bonificación a una cantidad N de sus empleados.
 - para ello desea registrar la fecha de nacimiento de cada uno de ellos en su sistema de información.
@@ -11,7 +11,7 @@
 - Publicar una lista desglosada por meses con el número total de empleados que cumplen años en cada mes, y el dinero total pagado en bonos.
 - Finalmente, se debe saber el total de dinero que debe tener la empresa TikTok por concepto de bonificación. 
 - #Ejemplo de la lista desglosada por meses:
-- 
+  
        -------------------------------------------------                                         
        | Mes      | Empleados TikTok | Dinero en Bonos |                                         
        -------------------------------------------------                                         
