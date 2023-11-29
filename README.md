@@ -10,7 +10,7 @@
 - Sacar el promedio de las edades.
 - Publicar una lista desglosada por meses con el número total de empleados que cumplen años en cada mes, y el dinero total pagado en bonos.
 - Finalmente, se debe saber el total de dinero que debe tener la empresa TikTok por concepto de bonificación. 
-- #Ejemplo de la lista desglosada por meses:
+# Ejemplo de la lista desglosada por meses:
 -     
        -------------------------------------------------                                         
        | Mes      | Empleados TikTok | Dinero en Bonos |                                         
